@@ -5,13 +5,6 @@ import { mapNotionImageUrl } from './map-image-url'
 import { fetchTweetAst } from 'static-tweets'
 import pMap from 'p-map'
 
-import {
-  isPreviewImageSupportEnabled,
-  isTweetEmbedSupportEnabled,
-  navigationStyle,
-  navigationLinks
-} from './config'
-
 export const notion = new NotionAPI({
   apiBaseUrl: process.env.NOTION_API_BASE_URL
 })
