@@ -1,6 +1,6 @@
 # Major Update
 
-Use [wr8](https://verfasor.gumroad.com/l/wr8) template. It's a much better free option. 
+Use [wr8](https://github.com/verfasor/wr8/) template. It's a much better free option. 
 
 Demo: https://demo.wr8.in
 
